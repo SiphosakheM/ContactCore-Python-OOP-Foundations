@@ -19,4 +19,4 @@ This project represents a real-world contact using three main aspects of OOP:
 ## Installation & Usage
 1. **Clone the repository:**
    ```bash
-   python contact_model.p
+   python contact_model.py
